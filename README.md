@@ -6,6 +6,6 @@ Pinbar Detector can be configured to find pinbars according to your own paramete
 
 ![Pinbar Detector indicator shows some good and bad pinbar formations on this shor-term EUR/USD chart](https://github.com/EarnForex/Pinbar-Detector/blob/main/README_Images/pinbar-detector-shows-some-pinbars.png)
 
-More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/metatrader-indicators/Pinbar-Detector/
+More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/indicators/Pinbar-Detector/
 
 Any contributions to the code are welcome!
